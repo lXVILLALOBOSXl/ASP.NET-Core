@@ -1,0 +1,24 @@
+#picture{
+     width: 200px; 
+     margin: 2rem 0; 
+     border-radius: 50%;
+}
+
+.seccion-about{
+     margin: 5rem 0 10rem 0;
+     color: white;
+}
+
+.seccion-about h1{
+     margin-bottom: 1rem;
+}
+
+.seccion-about p{
+     font-family: sans-serif;
+     line-height: 1.5;
+     font-size: 1.25rem;
+}
+
+#img-technologies{
+     width: 500px;
+}

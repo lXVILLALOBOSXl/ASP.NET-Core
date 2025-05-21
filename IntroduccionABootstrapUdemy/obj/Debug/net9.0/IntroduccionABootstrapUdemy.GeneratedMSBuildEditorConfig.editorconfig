@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IntroduccionABootstrapUdemy
+build_property.RootNamespace = IntroduccionABootstrapUdemy
+build_property.ProjectDir = /Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Acordeon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BY29yZGVvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Alertas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BbGVydGFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Colores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db2xvcmVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Columnas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db2x1bW5hcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Contenedores.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Db250ZW5lZG9yZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Espacios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Fc3BhY2lvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Formularios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Gb3JtdWxhcmlvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Grid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Gutters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9HdXR0ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Imagenes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbWFnZW5lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Offcanvas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9PZmZjYW52YXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Ratio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9SYXRpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Tablas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UYWJsYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Tabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UYWJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Tamaños.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UYW1hbsyDb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Texto.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9UZXh0by5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Home/Toast.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Ub2FzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/IntroduccionABootstrapUdemy/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3ytkk0m1f3
