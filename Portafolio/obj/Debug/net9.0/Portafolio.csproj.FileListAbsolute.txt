@@ -91,4 +91,4 @@
 /Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/Portafolio/obj/Debug/net9.0/Portafolio.pdb
 /Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/Portafolio/obj/Debug/net9.0/Portafolio.genruntimeconfig.cache
 /Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/Portafolio/obj/Debug/net9.0/ref/Portafolio.dll
-/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/Portafolio/obj/Debug/net9.0/compressed/81oqzyq2mb-av05on8lvg.gz
+/Users/luisvillalobos/Documents/Programacion/Self Study/Udemy/ASP.NET Core/Portafolio/obj/Debug/net9.0/compressed/81oqzyq2mb-q2irr2jv0u.gz
