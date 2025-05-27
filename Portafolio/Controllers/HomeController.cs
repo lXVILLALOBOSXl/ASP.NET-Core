@@ -12,14 +12,17 @@ public class HomeController : Controller
     private readonly IPersonRepository _personRepository;
     private readonly IProjectsRepository _ProjectsRepository;
 
+    private readonly IEmailService _emailService;
+
     private readonly IConfiguration _configuration;
 
-    public HomeController(ILogger<HomeController> logger, IPersonRepository personRepository, IProjectsRepository ProjectsRepository, IConfiguration configuration)
+    public HomeController(ILogger<HomeController> logger, IPersonRepository personRepository, IProjectsRepository ProjectsRepository, IConfiguration configuration, IEmailService emailService)
     {
         _logger = logger;
         _personRepository = personRepository;
         _ProjectsRepository = ProjectsRepository;
         _configuration = configuration;
+        _emailService = emailService;
     }
 
     public IActionResult Index()
@@ -47,7 +50,26 @@ public class HomeController : Controller
     }
 
    
-    public IActionResult Privacy()
+    public IActionResult Projects()
+    {
+        var projects = _ProjectsRepository.GetProjects();
+        return View(projects);
+    }
+
+    public IActionResult Contact()
+    {
+        return View();
+    }
+
+    [HttpPost]
+    public async Task<IActionResult> Contact(ContactViewModel model)
+    {
+        await _emailService.Send(model);
+        _logger.LogInformation("Contact form submitted by {Name} with email {Email}", model.Name, model.Email);
+        return RedirectToAction("Thanks");
+    }
+
+    public IActionResult Thanks()
     {
         return View();
     }

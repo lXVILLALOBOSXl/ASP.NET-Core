@@ -7,6 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddTransient<IPersonRepository, PersonRepository>();
 builder.Services.AddTransient<IProjectsRepository, ProjectsRepository>();
+builder.Services.AddTransient<IEmailService, EmailGmailService>();
 
 var app = builder.Build();
 
