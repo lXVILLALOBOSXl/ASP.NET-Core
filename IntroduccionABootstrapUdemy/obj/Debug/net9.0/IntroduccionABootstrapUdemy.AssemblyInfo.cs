@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntroduccionABootstrapUdemy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79b7b4d3535992efba75399f76be0c96666bfc56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1ddce5ddf00a1c07915c9fc2fe8f217428e272c")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntroduccionABootstrapUdemy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntroduccionABootstrapUdemy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

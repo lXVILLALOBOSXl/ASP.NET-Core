@@ -1,0 +1,24 @@
+@model AccountType
+
+@{
+    ViewData["Title"] = "Create Account Type";
+}
+
+<h1>Create Account Type</h1>
+<h5> Account Type refers to the type of account in the budget management system.Account Example: Savings, Checking, Credit Card, etc.</h5>
+
+<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+<form asp-controller="AccountType" asp-action="Create">
+    <div class="mb-3">
+        <label asp-for="Name" class="form-label"></label>
+        <input type="text" class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+
+    </div>
+    <button type="submit" class="btn btn-primary">Send</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
